@@ -12,4 +12,4 @@ Run the knn.ipynb file to generate results for table 1 (rows 4, 5 and 6) and tab
 
 Two-tower network for co-embedding audio and video sequences for few-shot embedding learning.
 
-![Proposed Work](./assets/proposed_work.png "Proposed Work")
+![Proposed Work](./proposed_work.png "Proposed Work")
